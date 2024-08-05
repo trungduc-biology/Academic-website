@@ -1,1 +1,1 @@
-# ducwebsite
+# Academic website
